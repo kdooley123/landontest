@@ -1,7 +1,8 @@
 import React from 'react';
-import Services from './Components/Services';
-import Arrival from './Components/Arrival';
-import Accessibility from './Components/Accessibility';
+import Welcome from './Welcome';
+import Services from './Services';
+import Arrival from './Arrival';
+import Accessibility from './Accessibility';
 import Green from './Green';
 
 const Main = () =>{

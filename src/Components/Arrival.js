@@ -7,7 +7,6 @@ const Arrival = () =>{
 
 return(
     <div>
-    <section id="arrivalinfo">
     <h2>Arrival Information</h2>
     <ul>
       <li><strong>Check-in:</strong> 3:00 PM</li>
@@ -17,7 +16,6 @@ return(
       <li><strong>Trains:</strong> The nearest Underground station is at Leicester Square.</li>
       <li><strong>Pet Policy:</strong> Pets of all sizes and types are allowed in designated pet rooms, and the specified common areas. Service animals are allowed everywhere.</li>
     </ul>
-  </section>
   </div>
 
 );
